@@ -1,0 +1,19 @@
+{
+  "name": "cpfvalidator",
+  "version": "1.0.0",
+  "description": "My exercise at Laboratoria to learn about library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/veridiem/cpfvalidator.git"
+  },
+  "author": "Jessica Veridiana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/veridiem/cpfvalidator/issues"
+  },
+  "homepage": "https://github.com/veridiem/cpfvalidator#readme"
+}
