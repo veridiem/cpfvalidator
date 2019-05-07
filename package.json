@@ -1,7 +1,7 @@
 {
   "name": "cpfveridiem",
   "version": "1.0.0",
-  "description": "My exercise at Laboratoria to learn about library.",
+  "description": "My project at Laboratoria to learn about library.",
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/nyc/bin/nyc.js ./node_modules/mocha/bin/mocha"
