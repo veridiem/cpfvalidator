@@ -16,7 +16,7 @@ $  npm install cpfveridiem
 ```node
 
 > const cpfValidator = require("cpfveridiem");
-> console.log(cpfValidator (47054783042))
+> console.log(cpfValidator ("47054783042"))
 > // returns "true"
 
 ```
